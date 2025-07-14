@@ -23,12 +23,13 @@ export default function Footer() {
               <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
                 <Twitter className="h-5 w-5 text-gray-500 hover:text-cyan-400 cursor-pointer transition-colors" />
               </a>
-              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/webloompvt.ltd" target="_blank" rel="noopener noreferrer">
                 <Instagram className="h-5 w-5 text-gray-500 hover:text-cyan-400 cursor-pointer transition-colors" />
               </a>
-              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/company/webloom07/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5 text-gray-500 hover:text-cyan-400 cursor-pointer transition-colors" />
               </a>
+
             </div>
 
           </div>
@@ -47,21 +48,21 @@ export default function Footer() {
                   Services
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href="/clients" className="text-gray-400 hover:text-white transition-colors">
                   Our Work
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link href="/careers" className="text-gray-400 hover:text-white transition-colors">
                   Careers
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href="/blog" className="text-gray-400 hover:text-white transition-colors">
                   Blog
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
 
