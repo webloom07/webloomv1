@@ -181,25 +181,25 @@ export default function HomePage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               <div className="text-center group">
                 <div className="text-4xl font-bold text-cyan-400 mb-2 group-hover:text-cyan-300 transition-colors">
-                  150+
+                  10+
                 </div>
                 <div className="text-gray-400">Projects Completed</div>
               </div>
               <div className="text-center group">
                 <div className="text-4xl font-bold text-purple-400 mb-2 group-hover:text-purple-300 transition-colors">
-                  50+
+                  3+
                 </div>
                 <div className="text-gray-400">Happy Clients</div>
               </div>
               <div className="text-center group">
                 <div className="text-4xl font-bold text-pink-400 mb-2 group-hover:text-pink-300 transition-colors">
-                  25+
+                  5+
                 </div>
                 <div className="text-gray-400">Team Members</div>
               </div>
               <div className="text-center group">
                 <div className="text-4xl font-bold text-green-400 mb-2 group-hover:text-green-300 transition-colors">
-                  98%
+                  90%
                 </div>
                 <div className="text-gray-400">Success Rate</div>
               </div>
