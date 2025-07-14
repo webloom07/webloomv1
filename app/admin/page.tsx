@@ -9,7 +9,7 @@ import { getContactSubmissions, getQuoteRequests, getCareerApplications, getCons
 import type { ContactSubmission, QuoteRequest, CareerApplication, ConsultationBooking } from "@/lib/supabase"
 import { Mail, FileText, Users, Calendar, Download } from "lucide-react"
 import Navbar from "@/components/navbar"
-
+// redeploy
 export default function AdminPage() {
   const [contactSubmissions, setContactSubmissions] = useState<ContactSubmission[]>([])
   const [quoteRequests, setQuoteRequests] = useState<QuoteRequest[]>([])
